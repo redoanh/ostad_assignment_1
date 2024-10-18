@@ -60,7 +60,7 @@ h2 {
 
 .gender {
     display: flex;
-  
+  justify-content: left;
 }
 
 .gender label {

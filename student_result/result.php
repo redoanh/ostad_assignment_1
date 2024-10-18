@@ -1,6 +1,6 @@
 <?php
 
-$marks = ["Math"=> 95, "English" => 93, "History" => 92, "Bangla" => 91, "Geography" => 98];
+$marks = ["Math"=> 33, "English" => 93, "History" => 92, "Bangla" => 91, "Geography" => 98];
 
 function calculateResult($marks) {
     $totalMarks = 0;
